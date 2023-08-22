@@ -1,3 +1,3 @@
-# Bitswap-frontend
+# Bitswap frontend
 
 Frontend for Bitswap
