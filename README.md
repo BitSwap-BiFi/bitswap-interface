@@ -1,3 +1,3 @@
-# Bitswap frontend
+# Bitswap Interface
 
-Frontend for Bitswap
+Interface for Bitswap
