@@ -2,6 +2,8 @@
 
 Interface for Bitswap -- a protocol for decentralized exchange of RGB Assets
 
+**⚠️Alpha software and WIP**
+
 ## Roadmap
 
 - [ ] Create pacakges
