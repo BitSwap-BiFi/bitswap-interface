@@ -6,10 +6,10 @@ Interface for Bitswap -- a protocol for decentralized exchange of RGB Assets
 
 ## Roadmap
 
-- [ ] Create pacakges
+- [x] Create pacakges
 - [ ] Design UI for Web DEX
 - [ ] UX
-- [ ] API integration from Bitmask
+- [x] API integration from Bitmask (WIP)
 - [ ] Bitlight wallet
 - [ ] Integration with Bitswap Core (dev internal)
 - [ ] Release web page in beta
