@@ -11,6 +11,7 @@ Interface for Bitswap -- a protocol for decentralized exchange of RGB Assets
 - [ ] UX
 - [x] API integration from Bitmask (WIP)
 - [ ] Bitlight wallet
+- [ ] Bitmask
 - [ ] Integration with Bitswap Core (dev internal)
 - [ ] Release web page in beta
 
