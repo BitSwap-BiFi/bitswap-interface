@@ -1,2 +1,22 @@
-"name": "bitswap interface";
-"version": "1.0.0";
+{
+"name": "bitswap_interface",
+"version": "1.0.0",
+"description": "Interface for bitswap",
+"main": "index.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/Bitswap-BiFi/bitswap-interface.git"
+},
+"keywords": [
+"bitswap",
+"dex"
+],
+"license": "MIT",
+"bugs": {
+"url": "https://github.com/Bitswap-BiFi/bitswap-interface/issues"
+},
+"homepage": "https://github.com/BiFiSwap-BiFi/bitswap-interface#readme"
+}
