@@ -4,9 +4,13 @@ Interface for Bitswap -- a protocol for decentralized exchange of RGB Assets
 
 **⚠️Alpha software and WIP**
 
+## Preview
+
+![alt text](image.png)
+
 ## Roadmap
 
-- [ ] Design UI for Web DEX
+- [x] Design UI for Web DEX
 - [ ] UX
 - [ ] Bitmask
 - [ ] Other wallets
